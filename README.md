@@ -38,10 +38,13 @@ npm run dev
 /store - Redux slices for cart and quantity management
 
 **Screenchots**
-![Uploading Screenshot (183).png…]()
+![Screenshot (183)](https://github.com/user-attachments/assets/59fb59a3-ea2b-4803-a2d0-faa81a83dc9d)
+
 
 ![Screenshot (180)](https://github.com/user-attachments/assets/ff09a51d-23d5-4da6-8df2-0779b7957967)
-![image](https://github.com/user-attachments/assets/06717270-1808-41b8-8cc5-6a3b6ce418b3)
+![image](https://github.com/user-attachments/assets/dfad5805-143c-4a5d-a825-0913e9ba4cde)
+
+
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
