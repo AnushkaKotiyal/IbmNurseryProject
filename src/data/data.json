@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Aloe Vera",
+    "price": "₹199",
+    "image": "https://www.ikea.com/ch/en/images/products/aloe-vera-potted-plant-aloe__1368841_pe957973_s5.jpg",
+    "desc": "Aloe Vera is a succulent known for its medicinal and air-purifying properties.",
+    "type": "air purifying"
+  },
+  {
+    "id": 2,
+    "name": "Lavender",
+    "price": "₹249",
+    "image": "https://static.toiimg.com/thumb/msid-113594041,width-1280,height-720,resizemode-4/113594041.jpg",
+    "desc": "Lavender is an aromatic herb with a soothing fragrance and purple flowers.",
+    "type": "aromatic"
+  },
+  {
+    "id": 3,
+    "name": "Snake Plant",
+    "price": "₹299",
+    "image": "https://images.squarespace-cdn.com/content/v1/54fbb611e4b0d7c1e151d22a/1610074066643-OP8HDJUWUH8T5MHN879K/Snake+Plant.jpg?format=1000w",
+    "desc": "The Snake Plant is an easy-care plant that purifies indoor air.",
+    "type": "air purifying"
+  },
+  {
+    "id": 4,
+    "name": "Mint",
+    "price": "₹99",
+    "image": "https://unlimitedgreens.com/cdn/shop/products/Mint-Plant-Top-Webp.webp?v=1676462296",
+    "desc": "Mint is a fast-growing aromatic herb great for tea and garnishing.",
+    "type": "aromatic"
+  },
+  {
+    "id": 5,
+    "name": "Peace Lily",
+    "price": "₹349",
+    "image": "https://seed2plant.in/cdn/shop/files/SPR-variegated-peace-lily-domino-7097188-hero-A-422d7faa152d42d3a4030ff8a2a33768.jpg?v=1692362762&width=416",
+    "desc": "The Peace Lily is a beautiful air purifier that thrives in low light.",
+    "type": "air purifying"
+  },
+  {
+    "id": 6,
+    "name": "Basil",
+    "price": "₹129",
+    "image": "https://www.padmamnursery.com/cdn/shop/files/basil-herb-_1.jpg?v=1728317716",
+    "desc": "Basil is an aromatic herb widely used in cooking and teas.",
+    "type": "aromatic"
+  },
+  {
+    "id": 7,
+    "name": "Areca Palm",
+    "price": "₹399",
+    "image": "https://i0.wp.com/theaffordableorganicstore.com/wp-content/uploads/2021/12/Areca-Palm_2.webp",
+    "desc": "Areca Palm is an elegant indoor plant that purifies air and adds tropical vibes.",
+    "type": "air purifying"
+  },
+  {
+    "id": 8,
+    "name": "Rosemary",
+    "price": "₹159",
+    "image": "https://unlimitedgreens.com/cdn/shop/files/IMG_6859_1.jpg?v=1716871471",
+    "desc": "Rosemary is a flavorful herb with a refreshing aroma and culinary value.",
+    "type": "aromatic"
+  },
+  {
+    "id": 9,
+    "name": "Money Plant",
+    "price": "₹179",
+    "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-plants-money-plant-golden-scindapsus-golden-plant-998668.jpg?v=1684934974",
+    "desc": "Money Plants are easy-to-grow vines that bring positive energy and purify air.",
+    "type": "air purifying"
+  },
+  {
+    "id": 10,
+    "name": "Lemongrass",
+    "price": "₹149",
+    "image": "https://m.media-amazon.com/images/I/716ZkSsNJWL._AC_UF1000,1000_QL80_.jpg",
+    "desc": "Lemongrass is an aromatic plant used in tea and natural mosquito repellent.",
+    "type": "aromatic"
+  },
+  {
+    "id": 11,
+    "name": "English Ivy",
+    "price": "₹299",
+    "image": "https://www.marthastewart.com/thmb/zxYYwlueb1zsmWl4LVDbgb1HJWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/home-green-houseplants-hedera--succulents-1415426695-5e2851ddf7b24f72a4ab897eaba29fe6.jpg",
+    "desc": "English Ivy is a trailing plant known for removing mold from air.",
+    "type": "air purifying"
+  },
+  {
+    "id": 12,
+    "name": "Tulsi",
+    "price": "₹89",
+    "image": "https://m.media-amazon.com/images/I/61tXHtetSxL._AC_UF1000,1000_QL80_.jpg",
+    "desc": "Tulsi is a sacred herb in Indian households with medicinal and aromatic properties.",
+    "type": "aromatic"
+  },
+  {
+    "id": 13,
+    "name": "Spider Plant",
+    "price": "₹179",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiehToHWrb3c6b4dx-ZD3EVbcELtGJ52Ddgw&s",
+    "desc": "Spider Plants are popular houseplants that clean the air and are pet-friendly.",
+    "type": "air purifying"
+  },
+  {
+    "id": 14,
+    "name": "Oregano",
+    "price": "₹139",
+    "image": "https://m.media-amazon.com/images/I/51fPKTEPAwL.jpg",
+    "desc": "Oregano is a versatile herb with a strong aroma, often used in pizzas and pasta.",
+    "type": "aromatic"
+  },
+  {
+    "id": 15,
+    "name": "Rubber Plant",
+    "price": "₹349",
+    "image": "https://budsnblush.com/cdn/shop/products/Rubberplant.jpg?v=1660208417",
+    "desc": "The Rubber Plant is a bold foliage plant known for removing toxins from the air.",
+    "type": "air purifying"
+  },
+  {
+    "id": 16,
+    "name": "Chamomile",
+    "price": "₹119",
+    "image": "https://cdn.shopify.com/s/files/1/0410/1601/files/Untitled_design_-_2021-01-22T174055.280.jpg?v=1611330069",
+    "desc": "Chamomile is a soothing herb used for teas and relaxation, with gentle floral aroma.",
+    "type": "aromatic"
+  },
+  {
+    "id": 17,
+    "name": "ZZ Plant",
+    "price": "₹389",
+    "image": "https://nurturinggreen.in/cdn/shop/products/PKP01002_1_1080x.jpg?v=1647424430",
+    "desc": "ZZ Plant is a stylish air-purifying plant that's drought-tolerant and low-maintenance.",
+    "type": "air purifying"
+  },
+  {
+    "id": 18,
+    "name": "Citronella",
+    "price": "₹149",
+    "image": "https://bonnieplants.com/cdn/shop/files/Mosquitoplant-4.jpg?v=1705612159",
+    "desc": "Citronella is a fragrant plant widely used to repel mosquitoes and bugs.",
+    "type": "aromatic"
+  },
+  {
+    "id": 19,
+    "name": "Boston Fern",
+    "price": "₹279",
+    "image": "https://budsnblush.com/cdn/shop/files/goldenbostonfernbudsnblush.jpg?v=1710577642",
+    "desc": "Boston Fern is an air-purifying plant that adds lush greenery indoors.",
+    "type": "air purifying"
+  },
+  {
+    "id": 20,
+    "name": "Jasmine",
+    "price": "₹229",
+    "image": "https://www.marthastewart.com/thmb/0ageNdHN-RL0Gv5Oll5t8Jx63ig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jasmine-plant-windowsill-getty-1220-2000-6508d5102dd846b48c35eaf713888064.jpg",
+    "desc": "Jasmine is an aromatic flowering plant known for its sweet, calming fragrance.",
+    "type": "aromatic"
+  }
+]
