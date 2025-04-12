@@ -17,7 +17,7 @@ const Product = () => {
             );
             return (
               <div key={type} className="mb-8">
-                <h1 className="text-2xl font-bold my-6 capitalize">
+                <h1 className="text-xl md:text-2xl font-bold my-6 capitalize">
                   {type} Plants
                 </h1>
                 <div className="flex flex-wrap justify-center gap-10">
