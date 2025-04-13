@@ -21,7 +21,7 @@ const PlantCard = ({ plant }) => {
       <button
         onClick={handleButton}
         id="button"
-        className={`p-2 w-40 h-10 rounded-md bg-green-800 text-white mt-2  ${isInCart ? ' pointer-events-none bg-gray-800' : 'bg-green-800'}`}  
+        className={`p-2 w-40 h-10 rounded-md text-white mt-2  ${isInCart ? ' pointer-events-none bg-gray-800' : 'bg-green-800'}`}  
       >
          {isInCart ? 'Added to Cart' : 'Add to Cart'}
       </button>

@@ -9,7 +9,7 @@ const Product = () => {
   return (
     <div className="w-screen h-screen overflow-x-hidden">
      <Navbar/>
-      <main className="px-4">
+      <main>
         <div className="container mx-auto my-5">
           {["aromatic", "air purifying"].map((type) => {
             const filteredPlants = plants.filter(
